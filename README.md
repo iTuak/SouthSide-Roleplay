@@ -1,6 +1,6 @@
 # SSRP - Gamemode
 
-### Creadit
+### Credit
 - LRP (Based)
 - iTuak (Scripter SS:RP)
 
