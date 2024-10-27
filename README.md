@@ -1,5 +1,5 @@
 # SouthSide-Roleplay
 
--> creadits: LRP based\n
--> rewordks: ME and My Team.\n
--! Dont Remove The Creadits.
+# -> creadits: LRP based
+# -> rewordks: ME and My Team.
+# -! Dont Remove The Creadits.
