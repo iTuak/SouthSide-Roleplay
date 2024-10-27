@@ -1,5 +1,3 @@
-# SouthSide-Roleplay
+# SSRP - Gamemode
 
-# -> creadits: LRP based
-# -> rewordks: ME and My Team.
-# -! Dont Remove The Creadits.
+-> credits: iTuak and LRP Based.
