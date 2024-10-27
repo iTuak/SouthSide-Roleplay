@@ -1,3 +1,9 @@
 # SSRP - Gamemode
 
--> credits: iTuak and LRP Based.
+***
+
+-> credits: iTuak and LRP Based. \
+-
+
+-> server version: R2. \
+-
